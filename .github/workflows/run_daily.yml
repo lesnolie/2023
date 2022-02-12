@@ -6,8 +6,8 @@ on:
     - cron: "0 0,13 * * *"
 
 env:
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: lesnolie
+  GITHUB_EMAIL: lesliezhang08@gmail.com
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: My GitHub Status
-        uses: yihong0618/github-readme-stats@main
+        uses: lesnolie/github-readme-stats@main
 
       - name: Set up Python
         uses: actions/setup-python@v1

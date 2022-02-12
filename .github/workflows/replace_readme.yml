@@ -10,8 +10,8 @@ on:
     types: [created, edited]
 
 env:
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: lesnolie
+  GITHUB_EMAIL: lesliezhang08@gmail.com
 
 jobs:
   sync:
@@ -51,5 +51,5 @@ jobs:
           commit-message: "Replace README"
           files: README.md
           rebase: 'true'
-          name: yihong0618 
-          email: zouzou0208@gmail.com
+          name: lesnolie 
+          email: lesliezhang08@gmail.com
