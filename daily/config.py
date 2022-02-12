@@ -36,7 +36,7 @@ WEEKLY_LABEL_LIST = [
     "Weekly",
 ]
 
-MY_BLOG_REPO = "lesnolie"
+MY_BLOG_REPO = "lesnolie/Marverick"
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
 )
