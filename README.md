@@ -15,10 +15,10 @@
 
 ## 跑步
 
-![](https://github.com/yihong0618/run/blob/master/assets/github_2022.svg)
+![](https://github.com/lesnolie/githubposter/tree/master/OUT_FOLDER/nike.svg)
 
-## 我的 GitHub
-<img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=yihong0618&show_icons=true&&&hide_title=true&theme=radical" />
+## 我的 dota2
+![](https://github.com/lesnolie/githubposter/tree/master/OUT_FOLDER/dota2.svg)
 
 ## 读书
 
