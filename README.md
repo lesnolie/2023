@@ -15,10 +15,10 @@
 
 ## 跑步
 
-![](https://github.com/lesnolie/githubposter/tree/master/OUT_FOLDER/nike.svg)
+![](https://raw.githubusercontent.com/lesnolie/githubposter/master/OUT_FOLDER/nike.svg)
 
 ## 我的 dota2
-![](https://github.com/lesnolie/githubposter/tree/master/OUT_FOLDER/dota2.svg)
+![](https://raw.githubusercontent.com/lesnolie/githubposter/master/OUT_FOLDER/dota2.svg)
 
 ## 读书
 
