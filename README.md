@@ -7,7 +7,7 @@
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
 | [俯卧撑](https://github.com/lesnolie/2022/issues/7) | None (个) | 0 | NO |
-| [GTD](https://github.com/lesnolie/2022/issues/8) | None (个) | 0 | NO |
+| [GTD](https://github.com/lesnolie/2022/issues/8) | 0 (个) | 1 | YES |
 | [周记](https://github.com/lesnolie/2022/issues/5) | 1 (周) | 1 | YES |
 | [早起](https://github.com/lesnolie/2022/issues/2) | None (天) | 0 | NO |
 
