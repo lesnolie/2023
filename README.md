@@ -17,6 +17,10 @@
 
 ![](https://raw.githubusercontent.com/lesnolie/githubposter/master/OUT_FOLDER/nike.svg)
 
+## 多邻国
+
+![](https://raw.githubusercontent.com/lesnolie/githubposter/master/OUT_FOLDER/duolingo.svg)
+
 ## 我的 dota2
 ![](https://raw.githubusercontent.com/lesnolie/githubposter/master/OUT_FOLDER/dota2.svg)
 
