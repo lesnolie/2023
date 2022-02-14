@@ -6,9 +6,9 @@
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [俯卧撑]() | None (个) | 0 | NO |
-| [GTD]() | None (个) | 0 | NO |
-| [周记]() | None (周) | 0 | NO |
+| [俯卧撑](https://github.com/lesnolie/2022/issues/7) | None (个) | 0 | NO |
+| [GTD](https://github.com/lesnolie/2022/issues/8) | None (个) | 0 | NO |
+| [周记](https://github.com/lesnolie/2022/issues/5) | 1 (周) | 1 | YES |
 | [早起](https://github.com/lesnolie/2022/issues/2) | None (天) | 0 | NO |
 
 <!--END_SECTION:my_number-->
