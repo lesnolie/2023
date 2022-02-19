@@ -41,6 +41,7 @@
  | ---- | ---- | ---- | 
 | [《开端》](https://github.com/lesnolie/2022/issues/6#issuecomment-1038828119) | 2022-02-14 | 2022-02-14 | 
 | [《侠探杰克》](https://github.com/lesnolie/2022/issues/6#issuecomment-1040285447) | 2022-02-15 | 2022-02-15 | 
+| [《金鱼妻》](https://github.com/lesnolie/2022/issues/6#issuecomment-1045987595) | 2022-02-19 | 2022-02-19 | 
 
 <!--END_SECTION:my_drama-->
 
