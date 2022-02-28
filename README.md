@@ -71,6 +71,12 @@
 
 <!--END_SECTION:my_blog-->
 
+## 媳妇的睡前故事
+
+<!--START_SECTION:my_story-->
+
+<!--END_SECTION:my_story-->
+
 ## 收藏的文章
 | 文章名称 | 添加日期 | type | 备注 |
 | ------- | ------- | ---- | ---- |
