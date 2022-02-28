@@ -1,3 +1,6 @@
+STORY_LABEL_LIST = [
+    "Story",
+]
 COOK_LABEL_LIST = [
     "Cook",
 ]
@@ -35,6 +38,9 @@ GTD_LABEL_LIST = [
 WEEKLY_LABEL_LIST = [
     "Weekly",
 ]
+SQUAT_LABEL_LIST = [
+    "Squat",
+]
 
 MY_BLOG_REPO = "lesnolie/Marverick"
 GITHUB_README_COMMENTS = (
@@ -49,6 +55,7 @@ LABEL_DICT = {
     "Drama": {"label_list": DRAMA_LABEL_LIST, "comment_name": "my_drama"},
     "Bangumi": {"label_list": BANGUMI_LABEL_LIST, "comment_name": "my_bangumi"},
     "Game": {"label_list": GAME_LABEL_LIST, "comment_name": "my_game"},
+    "Story": {"label_list": STORY_LABEL_LIST, "comment_name": "my_story"},
 }
 
 
