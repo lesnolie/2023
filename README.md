@@ -66,7 +66,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [2022的二三事（OKR）](https://github.com/lesnolie/Marverick/issues/2) | 2022-02-12 | 2022-02-12 | 0 | 
+| [2022的二三事（OKR）](https://github.com/lesnolie/Marverick/issues/2) | 2022-02-12 | 2022-02-19 | 0 | 
 | [我终于弄好了gitblog](https://github.com/lesnolie/Marverick/issues/1) | 2022-02-11 | 2022-02-12 | 0 | 
 
 <!--END_SECTION:my_blog-->
