@@ -29,7 +29,8 @@
 <!--START_SECTION:my_read-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
-| [《刺杀骑士团长》](https://github.com/yihong0618/2022/issues/10#issuecomment-1030985891) | 2022-02-07 | 2022-02-07 | 
+| [《万族之劫》](https://github.com/lesnolie/2022/issues/3#issuecomment-1050518835) | 2022-02-25 | 2022-02-25 | 
+| [《表达力》](https://github.com/lesnolie/2022/issues/3#issuecomment-1054403980) | 2022-02-28 | 2022-02-28 | 
 
 <!--END_SECTION:my_read-->
 
