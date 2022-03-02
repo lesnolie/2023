@@ -31,7 +31,7 @@
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
 | [《万族之劫》](https://github.com/lesnolie/2022/issues/3#issuecomment-1050518835) | 2022-02-25 | 2022-02-25 | 
-| [《表达力》](https://github.com/lesnolie/2022/issues/3#issuecomment-1054403980) | 2022-02-28 | 2022-02-28 | 
+| [《表达力》](https://github.com/lesnolie/2022/issues/3#issuecomment-1054403980) | 2022-02-28 | 2022-03-02 | 
 
 <!--END_SECTION:my_read-->
 
