@@ -61,6 +61,13 @@
 
 <!--END_SECTION:my_movie-->
 
+## 媳妇的睡前故事
+
+<!--START_SECTION:my_story-->
+| Name | Start | Update | Comments | 
+ | ---- | ---- | ---- | ---- |
+ 
+<!--END_SECTION:my_story-->
 
 ## 写博客
 <!--START_SECTION:my_blog-->
@@ -71,13 +78,6 @@
 
 <!--END_SECTION:my_blog-->
 
-## 媳妇的睡前故事
-
-<!--START_SECTION:my_story-->
-| Name | Start | Update | Comments | 
- | ---- | ---- | ---- | ---- |
- 
-<!--END_SECTION:my_story-->
 
 ## 收藏的文章
 | 文章名称 | 添加日期 | type | 备注 |
