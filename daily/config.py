@@ -1,6 +1,3 @@
-STORY_LABEL_LIST = [
-    "Story",
-]
 COOK_LABEL_LIST = [
     "Cook",
 ]
@@ -40,6 +37,9 @@ WEEKLY_LABEL_LIST = [
 ]
 SQUAT_LABEL_LIST = [
     "Squat",
+]
+STORY_LABEL_LIST = [
+    "Story",
 ]
 
 MY_BLOG_REPO = "lesnolie/Marverick"
