@@ -64,9 +64,11 @@
 ## 媳妇的睡前故事
 
 <!--START_SECTION:my_story-->
-| Name | Start | Update | Comments | 
- | ---- | ---- | ---- | ---- |
- 
+| Name | Start | Update | 
+ | ---- | ---- | ---- | 
+| [《千山万水去爱你》](https://github.com/lesnolie/2022/issues/12#issuecomment-1054428269) | 2022-02-28 | 2022-02-28 | 
+| [城市：江苏泰州](https://github.com/lesnolie/2022/issues/12#issuecomment-1059310378) | 2022-03-04 | 2022-03-04 | 
+
 <!--END_SECTION:my_story-->
 
 ## 写博客
