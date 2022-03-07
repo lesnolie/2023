@@ -17,6 +17,7 @@ from .config import (
     SQUAT_LABEL_LIST,
     STORY_LABEL_LIST,
     PUSHUP_LABEL_LIST,
+    XIAOMAGE_LABEL_LIST,
 )
 
 
