@@ -169,5 +169,5 @@ LABEL_DAILY_DICT = {
     "早起": [MORNING_LABEL_LIST, commnet_to_count, len],  # Do Nothing
     "GTD": [GTD_LABEL_LIST, comment_to_GTD_count, sum],  # Do Nothing
     "周记": [WEEKLY_LABEL_LIST, commnet_to_count, len],  # Do Nothing
-    "小马哥":[XIAOMAGE_LABEL_LIST_LABEL_LIST, commnet_to_count, sum],
+    "小马哥":[XIAOMAGE_LABEL_LIST, commnet_to_count, sum],
 }
