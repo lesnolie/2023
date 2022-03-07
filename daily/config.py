@@ -1,3 +1,6 @@
+XIAOMAGE_LABEL_LIST = [
+    "Xiaomage",
+]
 COOK_LABEL_LIST = [
     "Cook",
 ]
