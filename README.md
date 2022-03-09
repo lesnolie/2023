@@ -11,7 +11,7 @@
 | [GTD](https://github.com/lesnolie/2022/issues/8) | 4 (个) | 0 | NO |
 | [周记](https://github.com/lesnolie/2022/issues/5) | 4 (周) | 0 | NO |
 | [早起](https://github.com/lesnolie/2022/issues/2) | None (天) | 0 | NO |
-| [小马哥](https://github.com/lesnolie/2022/issues/13) | 10 (次) | 1 | NO |
+| [小马哥](https://github.com/lesnolie/2022/issues/13) | 10 (次) | 0 | NO |
 
 <!--END_SECTION:my_number-->
 
