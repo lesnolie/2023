@@ -60,6 +60,7 @@
 | [《黑金营救》](https://github.com/lesnolie/2022/issues/4#issuecomment-1065109215) | 2022-03-11 | 2022-03-11 | 
 | [《欢愉》](https://github.com/lesnolie/2022/issues/4#issuecomment-1065109460) | 2022-03-11 | 2022-03-12 | 
 | [《亚当计划》](https://github.com/lesnolie/2022/issues/4#issuecomment-1065895630) | 2022-03-12 | 2022-03-12 | 
+| [《青春变形记》](https://github.com/lesnolie/2022/issues/4#issuecomment-1065896054) | 2022-03-12 | 2022-03-12 | 
 
 <!--END_SECTION:my_movie-->
 
