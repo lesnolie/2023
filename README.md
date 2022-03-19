@@ -71,6 +71,7 @@
  | ---- | ---- | ---- | 
 | [千山万水去爱你](https://github.com/lesnolie/2022/issues/12#issuecomment-1054428269) | 2022-02-28 | 2022-03-04 | 
 | [被爱着的人，连吵架都是甜的](https://github.com/lesnolie/2022/issues/12#issuecomment-1059310378) | 2022-03-04 | 2022-03-04 | 
+| [《愿我们今后的人生安稳明亮》](https://github.com/lesnolie/2022/issues/12#issuecomment-1073031679) | 2022-03-19 | 2022-03-19 | 
 
 <!--END_SECTION:my_story-->
 
