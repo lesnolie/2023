@@ -64,6 +64,7 @@
 | [《青春变形记》](https://github.com/lesnolie/2022/issues/4#issuecomment-1065896054) | 2022-03-12 | 2022-03-12 | 
 | [《月球陨落》](https://github.com/lesnolie/2022/issues/4#issuecomment-1084027028) | 2022-03-31 | 2022-03-31 | 
 | [《这个杀手不太冷静》](https://github.com/lesnolie/2022/issues/4#issuecomment-1089645854) | 2022-04-06 | 2022-04-06 | 
+| [《神奇动物在哪里3之邓布利多之谜》](https://github.com/lesnolie/2022/issues/4#issuecomment-1094020836) | 2022-04-09 | 2022-04-09 | 
 
 <!--END_SECTION:my_movie-->
 
