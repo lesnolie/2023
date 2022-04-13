@@ -14,7 +14,12 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
+
+    
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
@@ -39,12 +44,15 @@ jobs:
         run: |
           source venv/bin/activate
           python get_daily.py ${{ secrets.G_T }} ${{ github.repository }}
+      # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
+      - name: Run safe dir
+        run: |
+          git config --global --add safe.directory /github/workspace
       - name: Push README
-        uses: github-actions-x/commit@v2.6
-        with:
-          github-token: ${{ secrets.G_T }}
-          commit-message: "Refresh README (2022 NUM Daily)"
-          files: README.md
-          rebase: "true"
-          name: ${{ env.GITHUB_NAME }}
-          email: ${{ env.GITHUB_EMAIL }}
+        run: |
+          date > generated.txt
+          git config user.name lesnolie
+          git config user.email lesliezhang08@gmail.com
+          git add .
+          git commit -m "generated"
+          git push
