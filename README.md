@@ -9,7 +9,7 @@
 | [俯卧撑](https://github.com/lesnolie/2022/issues/7) | 5 (个) | 0 | NO |
 | [深蹲](https://github.com/lesnolie/2022/issues/11) | 127 (个) | 0 | NO |
 | [GTD](https://github.com/lesnolie/2022/issues/8) | 4 (个) | 0 | NO |
-| [周记](https://github.com/lesnolie/2022/issues/5) | 6 (周) | 0 | NO |
+| [周记](https://github.com/lesnolie/2022/issues/5) | 9 (周) | 1 | YES |
 | [早起](https://github.com/lesnolie/2022/issues/2) | None (天) | 0 | NO |
 | [小马哥](https://github.com/lesnolie/2022/issues/13) | 35 (次) | 0 | NO |
 
