@@ -47,12 +47,11 @@ jobs:
       # Fix for the unsafe repo error: https://github.com/repo-sync/pull-request/issues/84
       - name: Run safe dir
         run: |
-          git config --global --add safe.directory /github/workspace
+          git config --global --add safe.directory /github/
       - name: Push README
         run: |
-          date > generated.txt
-          git config user.name lesnolie
-          git config user.email lesliezhang08@gmail.com
+          git config --local user.name lesnolie
+          git config --local user.email lesliezhang08@gmail.com
           git add .
-          git commit -m "generated readme"
-          git push
+          git commit -m "generated readme" || echo "no need to commit "
+          git push || echo "no file change"
