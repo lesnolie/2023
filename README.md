@@ -48,6 +48,8 @@
 | [《梦魇绝镇》](https://github.com/lesnolie/2022/issues/6#issuecomment-1048710070) | 2022-02-23 | 2022-02-24 | 
 | [《真凶标签》](https://github.com/lesnolie/2022/issues/6#issuecomment-1050518580) | 2022-02-25 | 2022-02-25 | 
 | [《月光骑士》](https://github.com/lesnolie/2022/issues/6#issuecomment-1090157160) | 2022-04-06 | 2022-04-06 | 
+| [《秘密花园》](https://github.com/lesnolie/2022/issues/6#issuecomment-1101277601) | 2022-04-18 | 2022-04-18 | 
+| [《真探》](https://github.com/lesnolie/2022/issues/6#issuecomment-1101878905) | 2022-04-19 | 2022-04-19 | 
 
 <!--END_SECTION:my_drama-->
 
