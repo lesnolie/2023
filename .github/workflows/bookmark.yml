@@ -51,7 +51,6 @@ jobs:
           date > generated.txt
           git config user.name lesnolie
           git config user.email lesliezhang08@gmail.com
-          git pull
           git add .
           git commit -m "generated readme"
           git push
