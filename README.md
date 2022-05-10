@@ -46,10 +46,11 @@
 | [《侠探杰克》](https://github.com/lesnolie/2022/issues/6#issuecomment-1040285447) | 2022-02-15 | 2022-02-15 | 
 | [《金鱼妻》](https://github.com/lesnolie/2022/issues/6#issuecomment-1045987595) | 2022-02-19 | 2022-02-19 | 
 | [《梦魇绝镇》](https://github.com/lesnolie/2022/issues/6#issuecomment-1048710070) | 2022-02-23 | 2022-04-30 | 
-| [《真凶标签》](https://github.com/lesnolie/2022/issues/6#issuecomment-1050518580) | 2022-02-25 | 2022-02-25 | 
+| [《真凶标签》](https://github.com/lesnolie/2022/issues/6#issuecomment-1050518580) | 2022-02-25 | 2022-05-06 | 
 | [《月光骑士》](https://github.com/lesnolie/2022/issues/6#issuecomment-1090157160) | 2022-04-06 | 2022-05-06 | 
 | [《秘密花园》](https://github.com/lesnolie/2022/issues/6#issuecomment-1101277601) | 2022-04-18 | 2022-04-18 | 
 | [《真探》](https://github.com/lesnolie/2022/issues/6#issuecomment-1101878905) | 2022-04-19 | 2022-04-19 | 
+| [《怪异》](https://github.com/lesnolie/2022/issues/6#issuecomment-1122689195) | 2022-05-10 | 2022-05-10 | 
 
 <!--END_SECTION:my_drama-->
 
