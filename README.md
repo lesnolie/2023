@@ -69,6 +69,7 @@
 | [《这个杀手不太冷静》](https://github.com/lesnolie/2022/issues/4#issuecomment-1089645854) | 2022-04-06 | 2022-04-06 | 
 | [《神奇动物在哪里3之邓布利多之谜》](https://github.com/lesnolie/2022/issues/4#issuecomment-1094020836) | 2022-04-09 | 2022-04-09 | 
 | [《新蝙蝠侠》](https://github.com/lesnolie/2022/issues/4#issuecomment-1100925971) | 2022-04-17 | 2022-04-19 | 
+| [《暗夜博士，莫比亚斯》](https://github.com/lesnolie/2022/issues/4#issuecomment-1126738739) | 2022-05-14 | 2022-05-14 | 
 
 <!--END_SECTION:my_movie-->
 
