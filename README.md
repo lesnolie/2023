@@ -88,6 +88,9 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
+| [搬去了新的城市](https://github.com/lesnolie/Marverick/issues/9) | 2022-06-23 | 2022-06-23 | 0 | 
+| [EMBY](https://github.com/lesnolie/Marverick/issues/8) | 2022-05-19 | 2022-05-19 | 0 | 
+| [外公](https://github.com/lesnolie/Marverick/issues/7) | 2022-04-28 | 2022-04-28 | 0 | 
 | [养一只猫](https://github.com/lesnolie/Marverick/issues/4) | 2022-03-23 | 2022-03-23 | 0 | 
 | [事与愿违](https://github.com/lesnolie/Marverick/issues/3) | 2022-03-05 | 2022-03-11 | 0 | 
 | [2022的二三事（OKR）](https://github.com/lesnolie/Marverick/issues/2) | 2022-02-12 | 2022-02-19 | 0 | 
