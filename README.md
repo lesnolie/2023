@@ -88,6 +88,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
+| [改变自己才是最好的解药](https://github.com/lesnolie/Marverick/issues/13) | 2022-09-02 | 2022-09-02 | 0 | 
 | [一个谎言需要无数的谎言](https://github.com/lesnolie/Marverick/issues/12) | 2022-08-24 | 2022-08-25 | 0 | 
 | [做饭](https://github.com/lesnolie/Marverick/issues/11) | 2022-07-11 | 2022-08-22 | 0 | 
 | [压力](https://github.com/lesnolie/Marverick/issues/10) | 2022-07-11 | 2022-07-11 | 0 | 
