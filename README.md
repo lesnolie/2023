@@ -88,6 +88,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
+| [9月随笔](https://github.com/lesnolie/Marverick/issues/15) | 2022-09-24 | 2022-09-24 | 0 | 
 | [关于VPS的一点思考](https://github.com/lesnolie/Marverick/issues/14) | 2022-09-16 | 2022-09-16 | 0 | 
 | [改变自己才是最好的解药](https://github.com/lesnolie/Marverick/issues/13) | 2022-09-02 | 2022-09-12 | 0 | 
 | [一个谎言需要无数的谎言](https://github.com/lesnolie/Marverick/issues/12) | 2022-08-24 | 2022-09-12 | 0 | 
