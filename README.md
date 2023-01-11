@@ -88,23 +88,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [夕阳利刃出鞘](https://github.com/lesnolie/Marverick/issues/19) | 2022-12-25 | 2022-12-25 | 0 | 
-| [骄阳](https://github.com/lesnolie/Marverick/issues/18) | 2022-12-21 | 2022-12-21 | 0 | 
-| [似阳](https://github.com/lesnolie/Marverick/issues/17) | 2022-12-18 | 2022-12-18 | 0 | 
-| [执行力](https://github.com/lesnolie/Marverick/issues/16) | 2022-09-28 | 2022-09-29 | 0 | 
-| [9月随笔](https://github.com/lesnolie/Marverick/issues/15) | 2022-09-24 | 2022-09-29 | 0 | 
-| [关于VPS的一点思考](https://github.com/lesnolie/Marverick/issues/14) | 2022-09-16 | 2022-09-28 | 0 | 
-| [改变自己才是最好的解药](https://github.com/lesnolie/Marverick/issues/13) | 2022-09-02 | 2022-09-12 | 0 | 
-| [一个谎言需要无数的谎言](https://github.com/lesnolie/Marverick/issues/12) | 2022-08-24 | 2022-09-12 | 0 | 
-| [做饭](https://github.com/lesnolie/Marverick/issues/11) | 2022-07-11 | 2022-09-12 | 0 | 
-| [压力](https://github.com/lesnolie/Marverick/issues/10) | 2022-07-11 | 2022-09-12 | 0 | 
-| [搬去了新的城市](https://github.com/lesnolie/Marverick/issues/9) | 2022-06-23 | 2022-09-12 | 0 | 
-| [EMBY](https://github.com/lesnolie/Marverick/issues/8) | 2022-05-19 | 2022-09-12 | 0 | 
-| [外公](https://github.com/lesnolie/Marverick/issues/7) | 2022-04-28 | 2022-04-28 | 0 | 
-| [养一只猫](https://github.com/lesnolie/Marverick/issues/4) | 2022-03-23 | 2022-03-23 | 0 | 
-| [事与愿违](https://github.com/lesnolie/Marverick/issues/3) | 2022-03-05 | 2022-03-11 | 0 | 
-| [2022的二三事（OKR）](https://github.com/lesnolie/Marverick/issues/2) | 2022-02-12 | 2022-02-19 | 0 | 
-| [我终于弄好了gitblog](https://github.com/lesnolie/Marverick/issues/1) | 2022-02-11 | 2022-03-11 | 0 | 
+| [新的一年](https://github.com/lesnolie/Marverick/issues/20) | 2023-01-11 | 2023-01-11 | 0 | 
 
 <!--END_SECTION:my_blog-->
 
