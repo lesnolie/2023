@@ -1,17 +1,12 @@
-# 2022
-关于我的 2022 的一些记录。命由天，事在人为，尽力而后已。
+# 2023
+关于我的 2023 的一些记录。命由天，事在人为，尽力而后已。
 
 ## 我的数字
 
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [俯卧撑](https://github.com/lesnolie/2022/issues/7) | 5 (个) | 0 | NO |
-| [深蹲](https://github.com/lesnolie/2022/issues/11) | 127 (个) | 0 | NO |
-| [GTD](https://github.com/lesnolie/2022/issues/8) | 4 (个) | 0 | NO |
-| [周记](https://github.com/lesnolie/2022/issues/5) | 11 (周) | 0 | NO |
-| [早起](https://github.com/lesnolie/2022/issues/2) | None (天) | 0 | NO |
-| [小马哥](https://github.com/lesnolie/2022/issues/13) | 35 (次) | 0 | NO |
+
 
 <!--END_SECTION:my_number-->
 
@@ -31,8 +26,7 @@
 <!--START_SECTION:my_read-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
-| [《万族之劫》](https://github.com/lesnolie/2022/issues/3#issuecomment-1050518835) | 2022-02-25 | 2022-02-25 | 
-| [《表达力》](https://github.com/lesnolie/2022/issues/3#issuecomment-1054403980) | 2022-02-28 | 2022-03-02 | 
+
 
 <!--END_SECTION:my_read-->
 
@@ -42,15 +36,7 @@
 <!--START_SECTION:my_drama-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
-| [《开端》](https://github.com/lesnolie/2022/issues/6#issuecomment-1038828119) | 2022-02-14 | 2022-02-14 | 
-| [《侠探杰克》](https://github.com/lesnolie/2022/issues/6#issuecomment-1040285447) | 2022-02-15 | 2022-02-15 | 
-| [《金鱼妻》](https://github.com/lesnolie/2022/issues/6#issuecomment-1045987595) | 2022-02-19 | 2022-02-19 | 
-| [《梦魇绝镇》](https://github.com/lesnolie/2022/issues/6#issuecomment-1048710070) | 2022-02-23 | 2022-04-30 | 
-| [《真凶标签》](https://github.com/lesnolie/2022/issues/6#issuecomment-1050518580) | 2022-02-25 | 2022-05-06 | 
-| [《月光骑士》](https://github.com/lesnolie/2022/issues/6#issuecomment-1090157160) | 2022-04-06 | 2022-05-06 | 
-| [《秘密花园》](https://github.com/lesnolie/2022/issues/6#issuecomment-1101277601) | 2022-04-18 | 2022-04-18 | 
-| [《真探》](https://github.com/lesnolie/2022/issues/6#issuecomment-1101878905) | 2022-04-19 | 2022-04-19 | 
-| [《怪异》](https://github.com/lesnolie/2022/issues/6#issuecomment-1122689195) | 2022-05-10 | 2022-05-10 | 
+
 
 <!--END_SECTION:my_drama-->
 
@@ -60,16 +46,7 @@
 <!--START_SECTION:my_movie-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
-| [《解禁男女》](https://github.com/lesnolie/2022/issues/4#issuecomment-1059950745) | 2022-03-06 | 2022-03-06 | 
-| [《黑金营救》](https://github.com/lesnolie/2022/issues/4#issuecomment-1065109215) | 2022-03-11 | 2022-03-11 | 
-| [《欢愉》](https://github.com/lesnolie/2022/issues/4#issuecomment-1065109460) | 2022-03-11 | 2022-03-12 | 
-| [《亚当计划》](https://github.com/lesnolie/2022/issues/4#issuecomment-1065895630) | 2022-03-12 | 2022-03-12 | 
-| [《青春变形记》](https://github.com/lesnolie/2022/issues/4#issuecomment-1065896054) | 2022-03-12 | 2022-03-12 | 
-| [《月球陨落》](https://github.com/lesnolie/2022/issues/4#issuecomment-1084027028) | 2022-03-31 | 2022-03-31 | 
-| [《这个杀手不太冷静》](https://github.com/lesnolie/2022/issues/4#issuecomment-1089645854) | 2022-04-06 | 2022-04-06 | 
-| [《神奇动物在哪里3之邓布利多之谜》](https://github.com/lesnolie/2022/issues/4#issuecomment-1094020836) | 2022-04-09 | 2022-04-09 | 
-| [《新蝙蝠侠》](https://github.com/lesnolie/2022/issues/4#issuecomment-1100925971) | 2022-04-17 | 2022-04-19 | 
-| [《暗夜博士，莫比亚斯》](https://github.com/lesnolie/2022/issues/4#issuecomment-1126738739) | 2022-05-14 | 2022-05-14 | 
+
 
 <!--END_SECTION:my_movie-->
 
@@ -78,9 +55,7 @@
 <!--START_SECTION:my_story-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
-| [千山万水去爱你](https://github.com/lesnolie/2022/issues/12#issuecomment-1054428269) | 2022-02-28 | 2022-03-04 | 
-| [被爱着的人，连吵架都是甜的](https://github.com/lesnolie/2022/issues/12#issuecomment-1059310378) | 2022-03-04 | 2022-03-04 | 
-| [《愿我们今后的人生安稳明亮》](https://github.com/lesnolie/2022/issues/12#issuecomment-1073031679) | 2022-03-19 | 2022-03-19 | 
+
 
 <!--END_SECTION:my_story-->
 
