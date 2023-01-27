@@ -10,7 +10,7 @@ BOOKMARK_ISSUE_NUMBER = 1
 BOOKMARK_FILE_NAME = f"bookmark_{YEAR}.md"
 
 BOOKMARK_FILE_HEAD = (
-    f"# 我的 [{YEAR}](https://github.com/lesnolie/2022/issues/1) 的书签\n\n"
+    f"# 我的 [{YEAR}](https://github.com/lesnolie/2023/issues/1) 的书签\n\n"
 )
 BOOKMARK_STAT_HEAD = "| Name | Link | Add | Update | Has_file | \n | ---- | ---- | ---- | ---- | ---- |\n"
 BOOKMARK_STAT_TEMPLATE = "| {name} | {link} | {add} | {update} | {has_file} |\n"
