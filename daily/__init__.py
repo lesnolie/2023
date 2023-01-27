@@ -6,9 +6,9 @@ from .shanbay import get_shanbay_daily
 
 MY_STATUS_DICT_FROM_API = {
     # TODO url
-    "扇贝": {"daily_func": get_shanbay_daily, "url": MY_SHANBAY_URL, "unit_str": " (天)"},
-    "词场": {"daily_func": get_cichang_daily, "url": "", "unit_str": " (天)"},
-    # "番茄": {"daily_func": get_forst_daily, "url": "", "unit_str": " (个)"},
+    #"扇贝": {"daily_func": get_shanbay_daily, "url": MY_SHANBAY_URL, "unit_str": " (天)"},
+    #"词场": {"daily_func": get_cichang_daily, "url": "", "unit_str": " (天)"},
+     "番茄": {"daily_func": get_forst_daily, "url": "", "unit_str": " (个)"},
 }
 
 MY_STATUS_DICT_FROM_COMMENTS = {
