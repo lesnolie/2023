@@ -88,6 +88,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
+| [《三体》以及需要梳理的自己](https://github.com/lesnolie/Marverick/issues/22) | 2023-01-27 | 2023-01-27 | 0 | 
 | [满江红](https://github.com/lesnolie/Marverick/issues/21) | 2023-01-24 | 2023-01-25 | 0 | 
 | [新的一年](https://github.com/lesnolie/Marverick/issues/20) | 2023-01-11 | 2023-01-25 | 0 | 
 
