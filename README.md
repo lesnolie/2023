@@ -42,7 +42,8 @@
 <!--START_SECTION:my_drama-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
-
+| [《狂飙》](https://github.com/lesnolie/2023/issues/2#issuecomment-1409943027) | 2023-01-31 | 2023-01-31 | 
+| [《LAST OF US》](https://github.com/lesnolie/2023/issues/2#issuecomment-1409943272) | 2023-01-31 | 2023-01-31 | 
 
 <!--END_SECTION:my_drama-->
 
