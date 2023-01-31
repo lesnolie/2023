@@ -2,15 +2,14 @@
 import argparse
 from datetime import datetime
 
-
 from github import Github
 
 from daily.config import LABEL_DICT, MY_BLOG_REPO
 from daily.utils import (
-    replace_readme_comments,
-    make_blog_issues_str,
     make_base_issues_comments_str,
+    make_blog_issues_str,
     make_cook_issue_table,
+    replace_readme_comments,
 )
 
 
@@ -64,4 +63,3 @@ if __name__ == "__main__":
         options.issue_number,
         options.issue_label_name,
     )
-
