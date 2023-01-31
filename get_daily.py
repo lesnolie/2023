@@ -102,7 +102,6 @@ if __name__ == "__main__":
     options = parser.parse_args()
     
     main(
-        login_auth_dict,
         options.github_token,
         options.repo_name,
     )
