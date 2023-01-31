@@ -4,7 +4,8 @@
 ## 我的数字
 
 <!--START_SECTION:my_number-->
-
+| Name | Status | Streak | Today? | 
+ | ---- | ---- | ---- | ---- |
 <!--END_SECTION:my_number-->
 
 ## 读书
