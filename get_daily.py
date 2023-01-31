@@ -101,7 +101,3 @@ if __name__ == "__main__":
     parser.add_argument("repo_name", help="repo_name")
     options = parser.parse_args()
     
-    main(
-        options.github_token,
-        options.repo_name,
-    )
