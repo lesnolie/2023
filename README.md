@@ -8,8 +8,8 @@
  | ---- | ---- | ---- | ---- |
 | [俯卧撑]() | None (个) | 0 | NO |
 | [深蹲]() | None (个) | 0 | NO |
-| [GTD](https://github.com/lesnolie/2023/issues/8) | 0 (个) | 1 | NO |
-| [周记](https://github.com/lesnolie/2023/issues/6) | 2 (周) | 1 | NO |
+| [GTD](https://github.com/lesnolie/2023/issues/8) | 0 (个) | 0 | NO |
+| [周记](https://github.com/lesnolie/2023/issues/6) | 2 (周) | 0 | NO |
 | [早起]() | None (天) | 0 | NO |
 | [小马哥]() | None (次) | 0 | NO |
 
