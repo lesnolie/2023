@@ -59,6 +59,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
+| [New Issue Title](https://github.com/lesnolie/Marverick/issues/26) | 2023-03-14 | 2023-03-14 | 0 | 
 | [利用chatgpt优化亚马逊1.0](https://github.com/lesnolie/Marverick/issues/25) | 2023-02-11 | 2023-02-11 | 0 | 
 | [满江红2](https://github.com/lesnolie/Marverick/issues/24) | 2023-01-30 | 2023-01-30 | 0 | 
 | [Ai太令人激动了](https://github.com/lesnolie/Marverick/issues/23) | 2023-01-29 | 2023-01-29 | 0 | 
