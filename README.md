@@ -59,12 +59,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [AI的时代来临了 ](https://github.com/lesnolie/Marverick/issues/31) | 2023-03-16 | 2023-03-16 | 0 | 
 | [AI的时代来临了 ](https://github.com/lesnolie/Marverick/issues/30) | 2023-03-16 | 2023-03-16 | 0 | 
-| [香菜牛肉食谱 ](https://github.com/lesnolie/Marverick/issues/29) | 2023-03-14 | 2023-03-14 | 0 | 
-| [香菜牛肉食谱 ](https://github.com/lesnolie/Marverick/issues/28) | 2023-03-14 | 2023-03-14 | 0 | 
-| [白灼菜配白灼汁食譜：](https://github.com/lesnolie/Marverick/issues/27) | 2023-03-14 | 2023-03-14 | 0 | 
-| [New Issue Title](https://github.com/lesnolie/Marverick/issues/26) | 2023-03-14 | 2023-03-14 | 0 | 
 | [利用chatgpt优化亚马逊1.0](https://github.com/lesnolie/Marverick/issues/25) | 2023-02-11 | 2023-02-11 | 0 | 
 | [满江红2](https://github.com/lesnolie/Marverick/issues/24) | 2023-01-30 | 2023-01-30 | 0 | 
 | [Ai太令人激动了](https://github.com/lesnolie/Marverick/issues/23) | 2023-01-29 | 2023-01-29 | 0 | 
