@@ -59,6 +59,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
+| [AI的时代来临了 ](https://github.com/lesnolie/Marverick/issues/30) | 2023-03-16 | 2023-03-16 | 0 | 
 | [香菜牛肉食谱 ](https://github.com/lesnolie/Marverick/issues/29) | 2023-03-14 | 2023-03-14 | 0 | 
 | [香菜牛肉食谱 ](https://github.com/lesnolie/Marverick/issues/28) | 2023-03-14 | 2023-03-14 | 0 | 
 | [白灼菜配白灼汁食譜：](https://github.com/lesnolie/Marverick/issues/27) | 2023-03-14 | 2023-03-14 | 0 | 
