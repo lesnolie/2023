@@ -23,6 +23,7 @@
 | [《三体》第一部](https://github.com/lesnolie/2023/issues/3#issuecomment-1406729971) | 2023-01-27 | 2023-01-27 | 
 | [《三体》第二部](https://github.com/lesnolie/2023/issues/3#issuecomment-1409941372) | 2023-01-31 | 2023-01-31 | 
 | [三体第三部](https://github.com/lesnolie/2023/issues/3#issuecomment-1423432672) | 2023-02-09 | 2023-02-09 | 
+| [黑暗荣耀](https://github.com/lesnolie/2023/issues/3#issuecomment-1473631525) | 2023-03-17 | 2023-03-17 | 
 
 <!--END_SECTION:my_read-->
 
