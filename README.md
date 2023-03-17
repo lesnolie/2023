@@ -62,6 +62,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
+| [尝试用chatgpt-4写代码 ](https://github.com/lesnolie/Marverick/issues/32) | 2023-03-17 | 2023-03-17 | 0 | 
 | [AI的时代来临了 ](https://github.com/lesnolie/Marverick/issues/30) | 2023-03-16 | 2023-03-16 | 0 | 
 | [利用chatgpt优化亚马逊1.0](https://github.com/lesnolie/Marverick/issues/25) | 2023-02-11 | 2023-02-11 | 0 | 
 | [满江红2](https://github.com/lesnolie/Marverick/issues/24) | 2023-01-30 | 2023-01-30 | 0 | 
