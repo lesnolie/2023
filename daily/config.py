@@ -45,6 +45,11 @@ STORY_LABEL_LIST = [
     "Story",
 ]
 
+### 2023 NEW ###
+TIMELINE_LABEL_LIST = [
+    "Timeline",
+]
+
 MY_BLOG_REPO = "lesnolie/Marverick"
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
@@ -95,3 +100,12 @@ FOOD_ISSUE_STAT_TEMPLATE = "| {name} | {first_date} | {last_date} | {times} |\n"
 MONTH_SUMMARY_HEAD = "| Month | Number | \n | ---- | ---- | \n"
 
 MONTH_SUMMARY_STAT_TEMPLATE = "| {month} | {number} |\n"
+##### Forest Summary ######
+FOREST_SUMMARY_HEAD = "| Tag | Times | \n | ---- | ---- | \n"
+FOREST_SUMMARY_STAT_TEMPLATE = "| {tag} | {times} |\n"
+FOREST_ISSUE_NUMBER = 14
+TIMEZONE = "Asia/Shanghai"
+##### GPT PROMPT #####
+PROMPT = f"跟你对话的是一个 {YEAR - 1992} 岁的男人，有个 {YEAR-1998} 岁的女朋友，喜欢编程，游戏。\
+工作是在亚马逊日本站开店铺卖东西，成绩一般般。喜欢电影和读书，最喜欢的电视剧是请回答1988。但有时候会感到孤独，你能作为他的朋友或助手给他回复么？因为需要记录回复，你的回复内容在 50 字以内，\
+，不要带换行符号，以下为他想聊的内容： "
