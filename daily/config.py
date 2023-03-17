@@ -1,3 +1,5 @@
+YEAR = 2023
+REPO_NAME = f"lesnolie/{YEAR}"
 XIAOMAGE_LABEL_LIST = [
     "Xiaomage",
 ]
