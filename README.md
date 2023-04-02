@@ -53,6 +53,7 @@
  | ---- | ---- | ---- | 
 | [《满江红》](https://github.com/lesnolie/2023/issues/1#issuecomment-1406714996) | 2023-01-27 | 2023-01-27 | 
 | [《满江红》二刷](https://github.com/lesnolie/2023/issues/1#issuecomment-1409942745) | 2023-01-31 | 2023-01-31 | 
+| [铃芽之旅](https://github.com/lesnolie/2023/issues/1#issuecomment-1493253228) | 2023-04-02 | 2023-04-02 | 
 
 <!--END_SECTION:my_movie-->
 
