@@ -55,6 +55,7 @@
 | [《满江红》二刷](https://github.com/lesnolie/2023/issues/1#issuecomment-1409942745) | 2023-01-31 | 2023-01-31 | 
 | [铃芽之旅](https://github.com/lesnolie/2023/issues/1#issuecomment-1493253228) | 2023-04-02 | 2023-04-02 | 
 | [阿凡达2](https://github.com/lesnolie/2023/issues/1#issuecomment-1493559709) | 2023-04-03 | 2023-04-03 | 
+| [让子弹飞这是我看过第五遍了还是那么的优秀还是那么的令人遐想](https://github.com/lesnolie/2023/issues/1#issuecomment-1509892227) | 2023-04-15 | 2023-04-15 | 
 
 <!--END_SECTION:my_movie-->
 
