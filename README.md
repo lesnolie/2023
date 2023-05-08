@@ -59,6 +59,7 @@
 | [灌篮高手](https://github.com/lesnolie/2023/issues/1#issuecomment-1527825234) | 2023-04-28 | 2023-04-28 | 
 | [蚁人3](https://github.com/lesnolie/2023/issues/1#issuecomment-1527825507) | 2023-04-28 | 2023-04-28 | 
 | [小熊维尼](https://github.com/lesnolie/2023/issues/1#issuecomment-1528752411) | 2023-04-29 | 2023-04-29 | 
+| [银河护卫队3](https://github.com/lesnolie/2023/issues/1#issuecomment-1537792561) | 2023-05-08 | 2023-05-08 | 
 
 <!--END_SECTION:my_movie-->
 
