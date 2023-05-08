@@ -42,6 +42,7 @@
 | [《LAST OF US》](https://github.com/lesnolie/2023/issues/2#issuecomment-1409943272) | 2023-01-31 | 2023-01-31 | 
 | [三体](https://github.com/lesnolie/2023/issues/2#issuecomment-1423432819) | 2023-02-09 | 2023-02-09 | 
 | [黑暗荣耀](https://github.com/lesnolie/2023/issues/2#issuecomment-1473643900) | 2023-03-17 | 2023-03-17 | 
+| [漫长的季节 5.0](https://github.com/lesnolie/2023/issues/2#issuecomment-1537799472) | 2023-05-08 | 2023-05-08 | 
 
 <!--END_SECTION:my_drama-->
 
