@@ -70,7 +70,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
-| [记第一次搭建软路由（旁路有）](https://github.com/lesnolie/Marverick/issues/34) | 2023-06-20 | 2023-06-20 | 0 | 
+| [记第一次搭建软路由（旁路由）](https://github.com/lesnolie/Marverick/issues/34) | 2023-06-20 | 2023-06-20 | 0 | 
 | [ai画图不属于我 ](https://github.com/lesnolie/Marverick/issues/33) | 2023-03-23 | 2023-03-23 | 0 | 
 | [尝试用chatgpt-4写代码 ](https://github.com/lesnolie/Marverick/issues/32) | 2023-03-17 | 2023-03-17 | 0 | 
 | [AI的时代来临了 ](https://github.com/lesnolie/Marverick/issues/30) | 2023-03-16 | 2023-03-16 | 0 | 
